@@ -1,5 +1,19 @@
 # Obsidian Setup
 
+---
+### Table of Contents
+1. [Why Obsidian?](#why-obsidian)
+2. [Installation](#installation)
+3. [Plugins](#plugins)
+   1. [Core plugins](#core-plugins)
+   2. [Community plugins](#community-plugins)
+4. [Layout](#layout)
+   1. [Left sidebar](#left-sidebar)
+   2. [Main editor area](#main-editor-area)
+   3. [Right sidebar](#right-sidebar)
+5. [Additional custom settings](#additional-custom-settings)
+---
+
 [Obsidian](https://obsidian.md) is a free (and very powerful) note-taking and knowledge organization application.
 It is primarily based on Markdown files - which comes with the benefit of simple syntax and direct reusability of the text in many other tools, i.e. Github, Confluence or JIRA.
 
@@ -158,6 +172,8 @@ I don't use yearly notes.
 ## Layout
 
 I have customized the application layout to always have all the relevant information displayed.
+
+![layout](../imgs/obsidian-layout.png)
 
 ### Left sidebar
 
