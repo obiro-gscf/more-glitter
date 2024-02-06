@@ -60,6 +60,8 @@ brew tap homebrew/cask-fonts && brew install --cask font-sauce-code-pro-nerd-fon
 2. Change the font in Terminal: Settings > Profiles > Font
 
 > Using the nerd font will allow to display more icons than with the standard fonts
+
+
 # Starship
 
 ``` sh
