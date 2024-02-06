@@ -43,7 +43,10 @@ Change the theme in `~/.zshrc` to `avit` or `amuse`
 2. Activate the plugin in `~/.zshrc`:
 
     ```shell
-    plugins=( [plugins...] zsh-syntax-highlighting)
+    plugins=(
+        # other plugins...
+        zsh-syntax-highlighting
+    )
     ```
 
 3. Restart zsh (such as by opening a new instance of your terminal emulator).
@@ -53,9 +56,9 @@ Change the theme in `~/.zshrc` to `avit` or `amuse`
 
 1. Install your preferred [Nerd Font](https://www.nerdfonts.com/font-downloads)
 
-```sh
-brew tap homebrew/cask-fonts && brew install --cask font-sauce-code-pro-nerd-font
-```
+    ```sh
+    brew tap homebrew/cask-fonts && brew install --cask font-sauce-code-pro-nerd-font
+    ```
 
 2. Change the font in Terminal: Settings > Profiles > Font
 
