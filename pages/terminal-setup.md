@@ -1,6 +1,8 @@
 # Terminal app configuration
 
 1. View > Show Tab Bar
+
+
 # Oh-my-zsh
 
 ```
@@ -8,6 +10,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 
 Change the theme in `~/.zshrc` to `avit` or `amuse`
+
 ## Plugins
 
 ### ZSH Autosuggestions
@@ -44,6 +47,8 @@ Change the theme in `~/.zshrc` to `avit` or `amuse`
     ```
 
 3. Restart zsh (such as by opening a new instance of your terminal emulator).
+
+
 # Nerd font
 
 1. Install your preferred [Nerd Font](https://www.nerdfonts.com/font-downloads)
