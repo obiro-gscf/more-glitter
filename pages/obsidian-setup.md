@@ -214,5 +214,6 @@ I keep my calendar widget in the bottom right corner - it gives a visual represe
 
 ## Additional custom settings
 
-**Themes** - I use Things theme.
-**Monospace font** - I use Victor Mono.
+- **Themes** - I use Things theme.
+
+- **Monospace font** - I use Victor Mono.
