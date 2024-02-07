@@ -1,6 +1,5 @@
 # Obsidian Setup
 
----
 ### Table of Contents
 1. [Why Obsidian?](#why-obsidian)
 2. [Installation](#installation)
@@ -12,7 +11,7 @@
    2. [Main editor area](#main-editor-area)
    3. [Right sidebar](#right-sidebar)
 5. [Additional custom settings](#additional-custom-settings)
----
+
 
 [Obsidian](https://obsidian.md) is a free (and very powerful) note-taking and knowledge organization application.
 It is primarily based on Markdown files - which comes with the benefit of simple syntax and direct reusability of the text in many other tools, i.e. Github, Confluence or JIRA.
