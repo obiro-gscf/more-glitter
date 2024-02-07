@@ -163,8 +163,6 @@ I use quarterly notes to keep track of more long-term goals, tasks and interesti
 
 I don't really use a template for them.
 
-> **File naming** - I have decided to use a custom format for the quarterly notes to put them last in the alphabetical order of all my periodic notes. This allows my [open task list](#open-task-list) to be more readable.
-
 ##### Yearly
 
 I don't use yearly notes.
