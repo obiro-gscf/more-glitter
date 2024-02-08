@@ -73,6 +73,8 @@ The CLI for AWS - absolutely needed for connecting to AWS services.
 
 IntelliJ is an IDE for Java development, but it is also so much more. This is easily the most used app for me, and one I cannot imagine my (professional) life without.
 
+Check out my [IntelliJ Cheatsheet](intellij-cheatsheet.md) here ;)
+
 |                            |                                                                                                   |
 |----------------------------|---------------------------------------------------------------------------------------------------|
 | What are the alternatives? | - (theoretically) any other code editor<br/> - Visual Studio                                      |
