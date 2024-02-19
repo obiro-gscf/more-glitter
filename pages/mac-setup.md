@@ -12,6 +12,20 @@ and change the system color scheme to Dark. This is the **only right** way.
 > 
 > (And your managers will too, as it is commonly known that light themes attract bugs!)
 
+## Useful system settings
+
+- System Settings > Keyboard > Keyboard Shortcuts > Function Keys (enable)
+- System Settings > Keyboard > Keyboard Shortcuts > Input Sources (disable, IntelliJ Classic keymap overrides these shortcuts)
+- System Settings > Keyboard > Keyboard Shortcuts > Services > Text > Search man Page Index in Terminal (disable)
+- System Settings > Trackpad > Tap to click (enable)
+
+
+- Finder > View > Show Tab Bar
+- Finder > View > Show Toolbar
+- Finder > View > Show Path Bar
+- Finder > View > Show Status Bar
+- Finder > Cmd + Shift + . (show / hide hidden fiels)
+
 ## Essential command line tools
 
 ### Homebrew
